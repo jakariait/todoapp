@@ -1,0 +1,22 @@
+[
+    {
+        "task": "HTML",
+        "done": false
+    },
+    {
+        "task": "CSS",
+        "done": false
+    },
+    {
+        "task": "JavaScript",
+        "done": false
+    },
+    {
+        "task": "PHP",
+        "done": false
+    },
+    {
+        "task": "MySQL",
+        "done": false
+    }
+]
